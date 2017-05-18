@@ -7,6 +7,7 @@ public class ItemsTable {
     public static final String COLUMN_DESCRIPTION = "description";
     public static final String COLUMN_CATEGORY = "category";
     public static final String COLUMN_POSITION = "sortPosition";
+    public static final String COLUMN_ADDRESS = "";
     public static final String COLUMN_IMAGE = "image";
 
     public static final String[] ALL_COLUMNS =

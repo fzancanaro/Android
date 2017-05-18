@@ -1,4 +1,4 @@
-#Thu May 18 11:28:15 AEST 2017
-base.0=/Users/flaviazancanaro/Documents/MyPark 3/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4
+#Thu May 18 15:11:12 AEST 2017
+base.0=/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4
 renamed.0=classes.dex
-file.0=/Users/flaviazancanaro/Documents/MyPark 3/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex
+file.0=/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex

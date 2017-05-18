@@ -1,9 +1,5 @@
 [
     {
-        "merged": "/Users/flaviazancanaro/Documents/MyPark 3/app/build/intermediates/res/merged/debug/xml/settings.xml",
-        "source": "/Users/flaviazancanaro/Documents/MyPark 3/app/src/main/res/xml/settings.xml"
-    },
-    {
         "merged": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/build/intermediates/res/merged/debug/xml/settings.xml",
         "source": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/src/main/res/xml/settings.xml"
     }
