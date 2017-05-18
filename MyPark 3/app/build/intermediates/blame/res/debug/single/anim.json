@@ -1,11 +1,67 @@
 [
     {
+        "merged": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/flaviazancanaro/.android/build-cache/a29a9174f89b9ed9f8e261568139f4b44a704e40/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/flaviazancanaro/.android/build-cache/fe93f864e9bf8babef6b47bfb48a9e2c11dd3f69/output/res/anim/design_snackbar_in.xml"
+    },
+    {
         "merged": "/Users/flaviazancanaro/Documents/MyPark 3/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
         "source": "/Users/flaviazancanaro/.android/build-cache/a29a9174f89b9ed9f8e261568139f4b44a704e40/output/res/anim/abc_popup_exit.xml"
     },
     {
         "merged": "/Users/flaviazancanaro/Documents/MyPark 3/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
         "source": "/Users/flaviazancanaro/.android/build-cache/a29a9174f89b9ed9f8e261568139f4b44a704e40/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/flaviazancanaro/.android/build-cache/fe93f864e9bf8babef6b47bfb48a9e2c11dd3f69/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/flaviazancanaro/Documents/MyPark 3/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/flaviazancanaro/.android/build-cache/fe93f864e9bf8babef6b47bfb48a9e2c11dd3f69/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/flaviazancanaro/.android/build-cache/a29a9174f89b9ed9f8e261568139f4b44a704e40/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/flaviazancanaro/Documents/MyPark 3/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/flaviazancanaro/.android/build-cache/a29a9174f89b9ed9f8e261568139f4b44a704e40/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/flaviazancanaro/.android/build-cache/a29a9174f89b9ed9f8e261568139f4b44a704e40/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/flaviazancanaro/.android/build-cache/a29a9174f89b9ed9f8e261568139f4b44a704e40/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/flaviazancanaro/.android/build-cache/fe93f864e9bf8babef6b47bfb48a9e2c11dd3f69/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/flaviazancanaro/Documents/MyPark 3/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/flaviazancanaro/.android/build-cache/a29a9174f89b9ed9f8e261568139f4b44a704e40/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/build/intermediates/res/merged/debug/anim/translate.xml",
+        "source": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/src/main/res/anim/translate.xml"
+    },
+    {
+        "merged": "/Users/flaviazancanaro/Documents/MyPark 3/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/flaviazancanaro/.android/build-cache/a29a9174f89b9ed9f8e261568139f4b44a704e40/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/flaviazancanaro/.android/build-cache/fe93f864e9bf8babef6b47bfb48a9e2c11dd3f69/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/flaviazancanaro/.android/build-cache/fe93f864e9bf8babef6b47bfb48a9e2c11dd3f69/output/res/anim/design_fab_out.xml"
     },
     {
         "merged": "/Users/flaviazancanaro/Documents/MyPark 3/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
@@ -16,8 +72,16 @@
         "source": "/Users/flaviazancanaro/Documents/MyPark 3/app/src/main/res/anim/alpha.xml"
     },
     {
+        "merged": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/flaviazancanaro/.android/build-cache/a29a9174f89b9ed9f8e261568139f4b44a704e40/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
         "merged": "/Users/flaviazancanaro/Documents/MyPark 3/app/build/intermediates/res/merged/debug/anim/translate.xml",
         "source": "/Users/flaviazancanaro/Documents/MyPark 3/app/src/main/res/anim/translate.xml"
+    },
+    {
+        "merged": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/flaviazancanaro/.android/build-cache/a29a9174f89b9ed9f8e261568139f4b44a704e40/output/res/anim/abc_popup_exit.xml"
     },
     {
         "merged": "/Users/flaviazancanaro/Documents/MyPark 3/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
@@ -32,16 +96,24 @@
         "source": "/Users/flaviazancanaro/.android/build-cache/fe93f864e9bf8babef6b47bfb48a9e2c11dd3f69/output/res/anim/design_bottom_sheet_slide_in.xml"
     },
     {
+        "merged": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/flaviazancanaro/.android/build-cache/a29a9174f89b9ed9f8e261568139f4b44a704e40/output/res/anim/abc_fade_out.xml"
+    },
+    {
         "merged": "/Users/flaviazancanaro/Documents/MyPark 3/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
         "source": "/Users/flaviazancanaro/.android/build-cache/a29a9174f89b9ed9f8e261568139f4b44a704e40/output/res/anim/abc_slide_out_bottom.xml"
     },
     {
-        "merged": "/Users/flaviazancanaro/Documents/MyPark 3/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
-        "source": "/Users/flaviazancanaro/.android/build-cache/fe93f864e9bf8babef6b47bfb48a9e2c11dd3f69/output/res/anim/design_bottom_sheet_slide_out.xml"
+        "merged": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/flaviazancanaro/.android/build-cache/a29a9174f89b9ed9f8e261568139f4b44a704e40/output/res/anim/abc_slide_out_bottom.xml"
     },
     {
-        "merged": "/Users/flaviazancanaro/Documents/MyPark 3/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "merged": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
         "source": "/Users/flaviazancanaro/.android/build-cache/a29a9174f89b9ed9f8e261568139f4b44a704e40/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/flaviazancanaro/.android/build-cache/fe93f864e9bf8babef6b47bfb48a9e2c11dd3f69/output/res/anim/design_bottom_sheet_slide_in.xml"
     },
     {
         "merged": "/Users/flaviazancanaro/Documents/MyPark 3/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
@@ -56,19 +128,19 @@
         "source": "/Users/flaviazancanaro/.android/build-cache/fe93f864e9bf8babef6b47bfb48a9e2c11dd3f69/output/res/anim/design_fab_out.xml"
     },
     {
-        "merged": "/Users/flaviazancanaro/Documents/MyPark 3/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
-        "source": "/Users/flaviazancanaro/.android/build-cache/a29a9174f89b9ed9f8e261568139f4b44a704e40/output/res/anim/abc_popup_enter.xml"
-    },
-    {
         "merged": "/Users/flaviazancanaro/Documents/MyPark 3/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
         "source": "/Users/flaviazancanaro/.android/build-cache/fe93f864e9bf8babef6b47bfb48a9e2c11dd3f69/output/res/anim/design_fab_in.xml"
     },
     {
-        "merged": "/Users/flaviazancanaro/Documents/MyPark 3/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
-        "source": "/Users/flaviazancanaro/.android/build-cache/a29a9174f89b9ed9f8e261568139f4b44a704e40/output/res/anim/abc_fade_out.xml"
+        "merged": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/build/intermediates/res/merged/debug/anim/alpha.xml",
+        "source": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/src/main/res/anim/alpha.xml"
     },
     {
-        "merged": "/Users/flaviazancanaro/Documents/MyPark 3/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/Users/flaviazancanaro/.android/build-cache/a29a9174f89b9ed9f8e261568139f4b44a704e40/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+        "merged": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/flaviazancanaro/.android/build-cache/a29a9174f89b9ed9f8e261568139f4b44a704e40/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/flaviazancanaro/Documents/MyPark 3/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/flaviazancanaro/.android/build-cache/a29a9174f89b9ed9f8e261568139f4b44a704e40/output/res/anim/abc_fade_out.xml"
     }
 ]

@@ -2,5 +2,9 @@
     {
         "merged": "/Users/flaviazancanaro/Documents/MyPark 3/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
         "source": "/Users/flaviazancanaro/.android/build-cache/fe93f864e9bf8babef6b47bfb48a9e2c11dd3f69/output/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/flaviazancanaro/.android/build-cache/fe93f864e9bf8babef6b47bfb48a9e2c11dd3f69/output/res/layout-sw600dp-v13/design_layout_snackbar.xml"
     }
 ]
