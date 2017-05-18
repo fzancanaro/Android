@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/flaviazancanaro/Documents/MyPark 3/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/flaviazancanaro/Documents/MyPark 3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1b6a30d83878b42e90d5ecf4d84df3c5958a564b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/flaviazancanaro/Documents/MyPark 3/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c909e91f37abbc1f851712aedbe851dc7f5230f9">
+        <dex dex="/Users/flaviazancanaro/Documents/MyPark 3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8f41c691b5ebc6f1bdb316af1f0c389acf78e6cf/classes.dex" />
+    </item>
+
+</items>
