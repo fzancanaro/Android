@@ -46,4 +46,5 @@
         android:text="Longer description"
         tools:ignore="HardcodedText" />
 
+
 </RelativeLayout>

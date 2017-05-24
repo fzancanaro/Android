@@ -33,7 +33,28 @@ public class HomeActivity extends AppCompatActivity {
             }
         });
 
+        //Get all parks to do cycling
+        Button button11 = (Button) findViewById(R.id.button11);
+        button11.setOnClickListener(new View.OnClickListener() {
 
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getApplicationContext(), MainActivity.class);
+                intent.putExtra("activity", "Cycling");
+                startActivity(intent);
+            }
+        });
+        //Get all parks with swimming pool
+        Button button12 = (Button) findViewById(R.id.button12);
+        button12.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getApplicationContext(), MainActivity.class);
+                intent.putExtra("activity", "Swimming");
+                startActivity(intent);
+            }
+        });
     }
 
 

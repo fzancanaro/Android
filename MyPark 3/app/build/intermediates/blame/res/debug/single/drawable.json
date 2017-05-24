@@ -8,12 +8,16 @@
         "source": "/Users/flaviazancanaro/.android/build-cache/a29a9174f89b9ed9f8e261568139f4b44a704e40/output/res/drawable/abc_ratingbar_material.xml"
     },
     {
+        "merged": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/build/intermediates/res/merged/debug/drawable/home_android.png",
+        "source": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/src/main/res/drawable/home_android.png"
+    },
+    {
         "merged": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
         "source": "/Users/flaviazancanaro/.android/build-cache/a29a9174f89b9ed9f8e261568139f4b44a704e40/output/res/drawable/abc_edit_text_material.xml"
     },
     {
-        "merged": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/build/intermediates/res/merged/debug/drawable/home_android.png",
-        "source": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/src/main/res/drawable/home_android.png"
+        "merged": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/build/intermediates/res/merged/debug/drawable/rocking.jpg",
+        "source": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/src/main/res/drawable/rocking.jpg"
     },
     {
         "merged": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/build/intermediates/res/merged/debug/drawable/design_ic_visibility.xml",
@@ -30,6 +34,14 @@
     {
         "merged": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
         "source": "/Users/flaviazancanaro/.android/build-cache/a29a9174f89b9ed9f8e261568139f4b44a704e40/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/build/intermediates/res/merged/debug/drawable/exercises.jpg",
+        "source": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/src/main/res/drawable/exercises.jpg"
+    },
+    {
+        "merged": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/build/intermediates/res/merged/debug/drawable/swing.jpg",
+        "source": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/src/main/res/drawable/swing.jpg"
     },
     {
         "merged": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
@@ -72,6 +84,10 @@
         "source": "/Users/flaviazancanaro/.android/build-cache/a29a9174f89b9ed9f8e261568139f4b44a704e40/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
     },
     {
+        "merged": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/build/intermediates/res/merged/debug/drawable/clamber.jpg",
+        "source": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/src/main/res/drawable/clamber.jpg"
+    },
+    {
         "merged": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
         "source": "/Users/flaviazancanaro/.android/build-cache/a29a9174f89b9ed9f8e261568139f4b44a704e40/output/res/drawable/abc_text_cursor_material.xml"
     },
@@ -90,6 +106,10 @@
     {
         "merged": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
         "source": "/Users/flaviazancanaro/.android/build-cache/a29a9174f89b9ed9f8e261568139f4b44a704e40/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/build/intermediates/res/merged/debug/drawable/bike.jpg",
+        "source": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/src/main/res/drawable/bike.jpg"
     },
     {
         "merged": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
@@ -146,6 +166,10 @@
     {
         "merged": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
         "source": "/Users/flaviazancanaro/.android/build-cache/a29a9174f89b9ed9f8e261568139f4b44a704e40/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/build/intermediates/res/merged/debug/drawable/climbing.jpg",
+        "source": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/src/main/res/drawable/climbing.jpg"
     },
     {
         "merged": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",

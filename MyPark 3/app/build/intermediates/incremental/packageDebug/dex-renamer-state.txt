@@ -1,4 +1,7 @@
-#Thu May 18 15:18:12 AEST 2017
-base.0=/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Tue May 23 17:24:56 AEST 2017
+base.0=/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8689a60d88e8b103340b16eb9c1ccbccc705c2ec
+renamed.1=classes2.dex
 renamed.0=classes.dex
-file.0=/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.1=/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6171bb315e5b5f7e562d9d9cce5970478f9f4d1a/classes.dex
+base.1=/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6171bb315e5b5f7e562d9d9cce5970478f9f4d1a
+file.0=/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8689a60d88e8b103340b16eb9c1ccbccc705c2ec/classes.dex

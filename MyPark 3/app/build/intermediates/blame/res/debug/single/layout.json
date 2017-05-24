@@ -238,5 +238,9 @@
     {
         "merged": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
         "source": "/Users/flaviazancanaro/.android/build-cache/a29a9174f89b9ed9f8e261568139f4b44a704e40/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/build/intermediates/res/merged/debug/layout/activity_main_swimming.xml",
+        "source": "/Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/src/main/res/layout/activity_main_swimming.xml"
     }
 ]

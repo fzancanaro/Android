@@ -29,6 +29,10 @@ public class DataItemAdapterListView extends ArrayAdapter<DataItem> {
 
     }
 
+    /*The position argument is the position of the current data item in the data set, wich I named MDataItems.
+     * ConvertView is a reference tool layout. Now that convert view might ou might not be null.
+     * If the adapter is recycling a view for a list row, then it won't be null...actually get a layout.
+    */
     @NonNull
     @Override
     public View getView(int position, View convertView, ViewGroup parent) {
@@ -43,7 +47,7 @@ public class DataItemAdapterListView extends ArrayAdapter<DataItem> {
         DataItem item = mDataItems.get(position);
 
         tvName.setText(item.getItemName());
-//        imageView.setImageResource(R.drawable.apple_pie);
+//        imageView.setImageResource(R.drawable.logo_4cm);
 
         InputStream inputStream = null;
         try {

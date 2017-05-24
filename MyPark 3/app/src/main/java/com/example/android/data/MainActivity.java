@@ -44,6 +44,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+
+
+
+
 //      Code to manage sliding navigation drawer
         mDrawerLayout = (DrawerLayout) findViewById(R.id.drawer_layout);
         mCategories = getResources().getStringArray(R.array.categories);
@@ -74,7 +78,15 @@ public class MainActivity extends AppCompatActivity {
             mRecyclerView.setLayoutManager(new GridLayoutManager(this, 3));
         }
 
-        displayDataItems(null);
+        //which activity selected:
+        Intent intent = getIntent();
+        String activity = intent.getStringExtra("activity");
+        if(activity != null)
+        {
+            displayDataItems(activity);
+        }
+        else
+            displayDataItems(null);
     }
 
     private void displayDataItems(String category) {

@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/src/main/AndroidManifest.xml:2:1-62:12
+ADDED from /Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/src/main/AndroidManifest.xml:2:1-63:12
 	package
 		ADDED from /Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/src/main/AndroidManifest.xml:3:5-39
 		INJECTED from /Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/src/main/AndroidManifest.xml
@@ -26,7 +26,7 @@ ADDED from /Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/src/main/An
 	android:name
 		ADDED from /Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/src/main/AndroidManifest.xml:8:22-69
 application
-ADDED from /Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/src/main/AndroidManifest.xml:10:5-60:19
+ADDED from /Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/src/main/AndroidManifest.xml:10:5-61:19
 MERGED from [com.android.support:design:24.2.1] /Users/flaviazancanaro/.android/build-cache/fe93f864e9bf8babef6b47bfb48a9e2c11dd3f69/output/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/flaviazancanaro/.android/build-cache/a29a9174f89b9ed9f8e261568139f4b44a704e40/output/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-v4:24.2.1] /Users/flaviazancanaro/.android/build-cache/0d47cc370052fd50b0acbd75a8c1063685991e9c/output/AndroidManifest.xml:25:5-20
@@ -101,6 +101,10 @@ ADDED from /Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/src/main/An
 		ADDED from /Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/src/main/AndroidManifest.xml:55:13-55
 	android:name
 		ADDED from /Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/src/main/AndroidManifest.xml:54:19-48
+activity#com.example.android.data.MainActivitySwimming
+ADDED from /Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/src/main/AndroidManifest.xml:60:9-57
+	android:name
+		ADDED from /Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/src/main/AndroidManifest.xml:60:19-55
 uses-sdk
 INJECTED from /Users/flaviazancanaro/AndroidStudioProjects/MyPark 3/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:design:24.2.1] /Users/flaviazancanaro/.android/build-cache/fe93f864e9bf8babef6b47bfb48a9e2c11dd3f69/output/AndroidManifest.xml:20:5-43

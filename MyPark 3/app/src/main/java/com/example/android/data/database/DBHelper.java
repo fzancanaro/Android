@@ -1,8 +1,13 @@
 package com.example.android.data.database;
 
 import android.content.Context;
+import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
+
+import com.example.android.data.model.DataItem;
+
+import java.util.ArrayList;
 
 public class DBHelper extends SQLiteOpenHelper {
 
@@ -23,4 +28,12 @@ public class DBHelper extends SQLiteOpenHelper {
         db.execSQL(ItemsTable.SQL_DELETE);
         onCreate(db);
     }
+/*
+    public ArrayList<DataItem> getItemsByActivity(String activity, SQLiteDatabase db){
+        ArrayList<DataItem> list = new ArrayList<DataItem>();
+
+        String selectString = "select * from items where category= '"+activity+"'";
+
+        Cursor cursor = db.query(selectString);
+    }*/
 }

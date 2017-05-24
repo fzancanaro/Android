@@ -62,6 +62,7 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.example.android.data.MainActivity" />
         </activity>
+        <activity android:name="com.example.android.data.MainActivitySwimming" />
     </application>
 
 </manifest>
